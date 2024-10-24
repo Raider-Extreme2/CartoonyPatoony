@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Override_Mask
+  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Root
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Dedao.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Dedao.L/Dedao.001.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Dedao.L/Dedao.001.L/Dedao.002.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Dedo_Medio.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Dedo_Medio.L/Dedo_Medio.001.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Dedo_Medio.L/Dedo_Medio.001.L/Dedo_Medio.002.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Indicador.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Indicador.L/Indicador.001.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Indicador.L/Indicador.001.L/Indicador.002.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Mindinho.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Mindinho.L/Mindinho.001.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.L/Ante_Braco.L/Braco.L/Mao.L/Mindinho.L/Mindinho.001.L/Mindinho.002.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Dedao.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Dedao.R/Dedao.001.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Dedao.R/Dedao.001.R/Dedao.002.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Dedo_Medio.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Dedo_Medio.R/Dedo_Medio.001.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Dedo_Medio.R/Dedo_Medio.001.R/Dedo_Medio.002.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Indicador.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Indicador.R/Indicador.001.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Indicador.R/Indicador.001.R/Indicador.002.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Mindinho.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Mindinho.R/Mindinho.001.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Ombro.R/Ante_Braco.R/Braco.R/Mao.R/Mindinho.R/Mindinho.001.R/Mindinho.002.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Bico_Alto
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Bico_Baixo
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Olho.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Olho.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Sonbracelha.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Sonbracelha.L/Sonbracelha.001.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Sonbracelha.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Sonbracelha.R/Sonbracelha.001.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.001.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.001.L/Dedo_Pe.002.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.L/Dedo_Pe.003.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.001.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.001.R/Dedo_Pe.002.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.R/Dedo_Pe.003.R
+    m_Weight: 1
+  - m_Path: Cabeca
+    m_Weight: 1
+  - m_Path: Corpo
+    m_Weight: 1
