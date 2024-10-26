@@ -7,16 +7,16 @@ AvatarMask:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Override_Mask
-  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
   m_Elements:
   - m_Path: 
     m_Weight: 1
   - m_Path: Armature
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Barriga
     m_Weight: 1
   - m_Path: Armature/Root/Sintura/Barriga/Peito
@@ -106,33 +106,33 @@ AvatarMask:
   - m_Path: Armature/Root/Sintura/Barriga/Peito/Pescoco/Cabeca/Sonbracelha.R/Sonbracelha.001.R
     m_Weight: 1
   - m_Path: Armature/Root/Sintura/Coxa.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.001.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.001.L/Dedo_Pe.002.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.L/Canela.L/Pe.L/Dedo_Pe.L/Dedo_Pe.003.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.001.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.001.R/Dedo_Pe.002.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Armature/Root/Sintura/Coxa.R/Canela.R/Pe.R/Dedo_Pe.R/Dedo_Pe.003.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Cabeca
     m_Weight: 1
   - m_Path: Corpo
