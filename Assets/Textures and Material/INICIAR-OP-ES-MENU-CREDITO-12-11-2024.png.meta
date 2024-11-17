@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 6fed02ba75c3dd94f938cd98fbb3178b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 795
+        width: 320
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e09d945f03c9774b87f4a44f087db08
+      internalID: 1865060554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 647
+        width: 324
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357926210c15dd4eb3a30c5703df87c
+      internalID: -901566420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 522
+        width: 234
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b970f0fae0a42e409fd8c651a849a8c
+      internalID: 1678231992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 386
+        width: 414
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79e238f0445e404b9287451d3adc38a
+      internalID: -990706527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 249
+        width: 206
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee22031e962e44e9e6e016f884bdc2
+      internalID: 1548766538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9943f217359a44b3da552dfa35f36
+      internalID: -1939784342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c679dccb4fb26a4aa5cbaf1cbe04565
+      internalID: 248669536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 45
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad8c682d10fa5844bd1e2d5aad64963
+      internalID: -802221457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 45
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e4257347db2444acb0dd1472e972b
+      internalID: -1276449102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 45
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f22d3bc0799334ab353f5e71723076
+      internalID: 786783719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 45
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b30c953f8a12045b90b973bb7490d6
+      internalID: -2038882041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 45
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666d727c1b8ba1499b07e09826c87e0
+      internalID: 1577776138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 45
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbd7c2467ffb54ba44c2847c2a1634
+      internalID: 919447218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 45
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd8702f6e6ca34587741e1ff0fe4f6
+      internalID: 2085981899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INICIAR-OP-ES-MENU-CREDITO-12-11-2024_14
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 45
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c1befb5b5a53841a9efd2f21c2c8e0
+      internalID: 842767264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_0: 1865060554
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_1: -901566420
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_10: -2038882041
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_11: 1577776138
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_12: 919447218
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_13: 2085981899
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_14: 842767264
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_2: 1678231992
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_3: -990706527
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_4: 1548766538
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_5: -1939784342
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_6: 248669536
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_7: -802221457
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_8: -1276449102
+      INICIAR-OP-ES-MENU-CREDITO-12-11-2024_9: 786783719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
