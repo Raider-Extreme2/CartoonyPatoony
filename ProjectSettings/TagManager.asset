@@ -6,15 +6,18 @@ TagManager:
   tags:
   - SideSmasher
   - TopSmasher
+  - EnemyTag
+  - Coin
+  - Tutorial
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - DragonsDen
   - Water
   - UI
-  - 
-  - 
+  - EnemyLayer
+  - PlayerLayer
   - 
   - 
   - 
